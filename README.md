@@ -146,10 +146,10 @@ to choose doesn't have another competing meetup group scheduled for it already.
 
 ### Meetup Type
 
-Its very easy to think about meetups in a clasical way: you have a speaker (or more) that comes and delivers a clasical presentation and its nothing wrong with that. Its important to have different types of meetups, so we propose something like this:
+Its very easy to think about meetups in a clasical way: you have a speaker (or more) that comes and delivers a presentation and its nothing wrong with that. Its important to have different types of meetups, so we propose something like this:
 - presentation - Clasical presentations (one or more subjects)
 - workshop - Coding during a meetup is very imporant, it helps retain more information because you have to get your hands dirty :)
-- open talks - 
+- open talks - You propose a topic, then the first thing at the begining of the meetup you ask people what subject releated to that topic they would like to be disscused. For this type of meetup would be nice to have a whiteboard to write the subject on it. They you go through each subject and anyone can share their knowleadge.
 
 
 ### Meetup space
