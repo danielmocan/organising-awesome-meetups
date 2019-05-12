@@ -150,7 +150,6 @@ Meetups in their classic formats feature a speaker (or more) who delivers a pres
 - **presentation** - Clasical presentations (one or more subjects)
 - **workshop** - Writing code during a meetup helps attendees experience and learn through practical hands-on experience.
 - **open talks** - A topic is selected for the meetup, and during the meetup event the attendees share a collection of subjects related to the topic proposed. A whiteboard helps facilitate this activity. Once enough subjects are gathered an open discussion with attendees can take place to share knowledge. An important aspect of this meetup is having a moderator for the conversation so it doesn't get side-tracked.
-- social - For this meetup you dont have a specific subject, but its a good way for the members of you comunity to socialize. Most of the times during regular meetups there is little time to socialize.
 
 
 ### Meetup space
