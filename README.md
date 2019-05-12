@@ -148,7 +148,7 @@ to choose doesn't have another competing meetup group scheduled for it already.
 
 Meetups in their classic formats feature a speaker (or more) who delivers a presentation. However, meetups are a great ground to also feature different formats of learning. We propose:
 - **presentation** - Clasical presentations (one or more subjects)
-- **workshop** - Coding during a meetup is very imporant, it helps retain more information because you have to get your hands dirty :)
+- **workshop** - Writing code during a meetup helps attendees experience and learn through practical hands-on experience.
 - **open talks** - You propose a topic, then the first thing at the begining of the meetup you ask people what subject releated to that topic they would like to be disscused. For this type of meetup would be nice to have a whiteboard to write the subject on it. They you go through each subject and anyone can share their knowleadge. Its very important that you have some that moderates the coversation, else you get sidetracket very easy.
 - social - For this meetup you dont have a specific subject, but its a good way for the members of you comunity to socialize. Most of the times during regular meetups there is little time to socialize.
 
